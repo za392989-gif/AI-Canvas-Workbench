@@ -1,4 +1,4 @@
-# yanling画布 License
+# AI-Canvas-Workbench License
 
 Copyright (c) 2026 yanling画布
 
@@ -20,7 +20,7 @@ Copyright (c) 2026 yanling画布
 
 ## 权利保留
 
-版权方保留对 yanling画布 进行商业使用、商业授权、再许可、闭源发布和其他处分的全部权利。
+版权方保留对AI-Canvas-Workbench进行商业使用、商业授权、再许可、闭源发布和其他处分的全部权利。
 
 ## 第三方组件
 
