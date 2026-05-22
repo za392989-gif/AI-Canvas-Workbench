@@ -1,5 +1,5 @@
+<img width="2077" height="202" alt="22" src="https://github.com/user-attachments/assets/a504f201-4c6c-441d-9781-f48d8e2eecb4" />
 
-   <img width="100" height="100" alt="Yanling_RU" src="https://github.com/user-attachments/assets/82387202-cf80-4db9-ade8-bd14a82eb58b" />
 
 
 # AI 无限画布工作台
