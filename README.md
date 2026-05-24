@@ -29,6 +29,25 @@ AI 生成：支持多服务商配置，包括 RunningHub、GRSAI、ToAPIs、Open
 诊断包：可收集日志、配置摘要、运行信息，并对 API key/token 做脱敏。
 桌面便携版：不依赖系统安装 Python，双击 exe 即可启动。
 
+## UI设计
+
+<img width="1908" height="943" alt="ScreenShot_2026-05-24_140256_252" src="https://github.com/user-attachments/assets/e50cdca1-f3eb-4a89-8ab0-4de21c14b170" />
+<img width="1920" height="943" alt="2" src="https://github.com/user-attachments/assets/2017bc3c-f684-41ef-a2d2-108ec23c9881" />
+<img width="1910" height="944" alt="3" src="https://github.com/user-attachments/assets/cf45f65f-e1d8-4a1a-8b73-fb61c3407648" />
+<img width="1910" height="944" alt="4" src="https://github.com/user-attachments/assets/c9aa3de4-d9ca-4dbf-9c3d-4c7b775913d8" />
+<img width="1906" height="940" alt="5" src="https://github.com/user-attachments/assets/bbf10dd3-b35e-4420-bc49-674d47d2865d" />
+<img width="1902" height="944" alt="6" src="https://github.com/user-attachments/assets/3f70f2a3-16b4-484a-b528-abfbd7e91de2" />
+<img width="1906" height="951" alt="7" src="https://github.com/user-attachments/assets/f1eeb3b9-4ae3-4340-b890-674a5a95a718" />
+<img width="1905" height="946" alt="8" src="https://github.com/user-attachments/assets/9d825078-0b4f-4821-bc06-9e1b8cf4b8ad" />
+<img width="1913" height="946" alt="9" src="https://github.com/user-attachments/assets/a8f39339-58c6-4443-b2f6-9e6633e5b58c" />
+
+
+
+
+
+
+
+
 ## 便携数据目录
 Electron 发布版采用“程序和用户数据分离”的结构：
 AI-Canvas-Workbench-Electron/
