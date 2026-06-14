@@ -1,0 +1,15 @@
+{
+  "version": "2026-06-14-local-color",
+  "updatedAt": "2026-06-14T00:00:00Z",
+  "videos": [
+    {
+      "id": "color-grading-001",
+      "title": "调色",
+      "description": "调色教程视频。",
+      "url": "assets/tutorials/调色.mp4",
+      "poster": "",
+      "duration": "",
+      "featured": true
+    }
+  ]
+}
